@@ -7,7 +7,7 @@
         - Attendees
         """,
     'license': 'OPL-1',
-    'author': 'motu',
+    'author': 'motu-odoo',
     'website': 'www.odoo.com',
     'category': 'Custom Modules/Tech Training',
     'depends': ['base'],
